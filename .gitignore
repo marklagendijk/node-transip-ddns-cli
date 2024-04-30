@@ -4,3 +4,4 @@ node_modules/
 .npm
 *.pem
 env.sh
+docker-compose.yml
